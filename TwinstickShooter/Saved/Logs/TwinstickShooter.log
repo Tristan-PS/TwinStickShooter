@@ -1210,3 +1210,833 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.19-09.52.51:707][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2024.04.19-09.52.51:728][179]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2024.04.19-09.53.14:882][975]LogDerivedDataCache: C:/Users/tristan.sonne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 778 files in 1245 folders with total size 4 MiB.
+[2024.04.19-10.00.23:653][350]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.19-10.00.23:767][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-10.06.05:583][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.19-10.06.05:590][193]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004511 seconds
+[2024.04.19-10.06.05:592][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2024.04.19-10.06.05:592][193]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Untitled_1_Auto126954DA94B872611C24246BEC53ADA92.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2024.04.19-10.06.05:593][193]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_1_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.19-10.06.05:593][193]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2024.04.19-10.06.05:593][193]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2024.04.19-10.06.05:594][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.016
+[2024.04.19-10.06.05:594][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.04.19-10.06.06:674][278]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.19-10.06.06:679][278]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.19-10.25.59:154][920]LogSlate: Window 'New Level' being destroyed
+[2024.04.19-10.26.03:066][920]LogSlate: Window 'Save Content' being destroyed
+[2024.04.19-10.26.03:077][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-10.26.17:428][920]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.19-10.26.17:583][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level1" FILE="../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-10.26.17:607][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.19-10.26.17:616][920]LogSavePackage: Moving output files for package: /Game/level1
+[2024.04.19-10.26.17:616][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/level16B4568BD4896A6FD53AA529AA94E8040.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/level1.umap'
+[2024.04.19-10.26.17:651][920]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/level1_HLOD0_Instancing
+/Game/__ExternalActors__/level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG
+/Game/__ExternalObjects__/level1/F/22/JL6PFDIHNA1XSTJJHAEN28
+/Game/__ExternalObjects__/level1/B/H3/F3KNAWE8GSDSKUU5VS5KQ0
+/Game/__ExternalObjects__/level1/B/1V/D12QAJC6J21OWZR45R2G8M
+/Game/__ExternalObjects__/level1/6/IW/RJOFYPADSMRJFM3JL8ZXMJ
+/Game/__ExternalObjects__/level1/C/JG/GV0ARI6KHL0COFFBB88IC6
+/Game/__ExternalObjects__/level1/6/61/2VS9DQCGDSQIJB0OEEM7P8
+/Game/__ExternalActors__/level1/6/DF/2QUKRIGZ715A6P6FN1SH5G
+/Game/__ExternalActors__/level1/0/79/5XNEL9ZHGANJOS90RSMGIK
+/Game/__ExternalActors__/level1/0/DK/C13YY87Z6YYBL9DBB5TLTJ
+/Game/__ExternalActors__/level1/6/SM/QCFH8XV6Y2E8I46MS099E3
+/Game/__ExternalActors__/level1/0/6R/OQHI4GKV7R6XYPNL9AJZVF
+/Game/__ExternalActors__/level1/E/P5/N80N9QV1UGP1H3LNG4WPC7
+/Game/__ExternalActors__/level1/2/RQ/EZ8X2GP7IWETAGSPXCBT0N
+/Game/__ExternalActors__/level1/E/SO/IUQ0TYJIPXWW98ZTRVCK9W
+/Game/__ExternalActors__/level1/7/5C/B08JIUWQ158PPAXSJURA4H
+/Game/__ExternalActors__/level1/8/3H/KGWD41AVVMTQBRNXP6T9Q1
+/Game/__ExternalActors__/level1/0/9A/I31WKEU22PQGVI2BPORQQG
+/Game/__ExternalActors__/level1/D/1Y/0K54XX3PTJ6PPYJAGNJVEM
+/Game/__ExternalActors__/level1/1/45/EJSPYZOAABTI20FGJDK5FZ
+/Game/__ExternalActors__/level1/A/V6/DKLBR9DIZV5ZQ9BXT4RX19
+/Game/__ExternalActors__/level1/0/ON/PA1QN670MUYPIGT4CAUVK0
+/Game/__ExternalActors__/level1/D/VI/1ALP4KWDM7FJ13JRVV4KC8
+/Game/__ExternalActors__/level1/0/DT/S5F2WYNG2TEYBWD8ZQ7FPG
+/Game/__ExternalActors__/level1/5/RY/Y9H4SFRB26E6E99RNHKAZR
+/Game/__ExternalActors__/level1/8/H9/25ZUPMSPRGASY3NV7XE4D8
+/Game/__ExternalActors__/level1/6/37/IWJDFK578NPPI3FHDXSWA6
+/Game/__ExternalActors__/level1/A/BM/HDZX93NNP1VAINY4HHJYYU
+/Game/__ExternalActors__/level1/0/W3/6207B3XWTKRZW7RJM4UE4T
+/Game/__ExternalActors__/level1/4/7B/524A6TU6CZXWXSB2JH1CP5
+/Game/__ExternalActors__/level1/8/1S/8RYMGFK5OSNSGTMXI0T6NW
+/Game/__ExternalActors__/level1/8/JX/R96YXGFUXWIX7RSXT39DSG
+/Game/__ExternalActors__/level1/A/7W/16IU7RR5W4VLB8GQI10S01
+/Game/__ExternalActors__/level1/1/JU/2PT7RA9F601L2EF3DUU4OE
+/Game/__ExternalActors__/level1/7/ZK/NZPM2DF5GL7ADI2L0O5QFI
+/Game/__ExternalActors__/level1/E/KI/1FZ2RGADQW3B9XOGYLQAIC
+/Game/__ExternalActors__/level1/0/YB/F07YBHWQKNIAO0LR8NLF6Y
+/Game/__ExternalActors__/level1/C/KK/8VFAMR068Q1AZ9XOV8NS0I
+/Game/__ExternalActors__/level1/A/7M/7TT97N5SNCU2ZATYMH2GF1
+/Game/__ExternalActors__/level1/5/BD/OBKG4JN42452BP85T3XKPI
+/Game/__ExternalActors__/level1/3/HR/IPH662YDOJYMZ8I4DEETSA
+/Game/__ExternalActors__/level1/1/E7/3D68VQBXJ9FFAX73PD5NUE
+/Game/__ExternalActors__/level1/8/EO/8A2IS9PHV4JWN0XJD4SUWC
+/Game/__ExternalActors__/level1/C/D7/AD34W3MR0JY3E7IXYMHKFQ
+/Game/__ExternalActors__/level1/0/7T/A0JWKH6R63G0ULJJ22SQ6Q
+/Game/__ExternalActors__/level1/5/2D/3YOCEWATK3QK5591930POJ
+/Game/__ExternalActors__/level1/D/I1/V8RIVTPRM131CB28BF92HQ
+/Game/__ExternalActors__/level1/7/7K/JB48TLZHIYXRMGWH840W6J
+/Game/__ExternalActors__/level1/9/DG/K1M3JB5C7V68YBJ4FZH98B
+/Game/__ExternalActors__/level1/C/EL/98MCC5ZU3AIE5CZU7V2MTQ
+/Game/__ExternalActors__/level1/9/Q3/DHI9KI13E7AVU5OK6E3P0N
+/Game/__ExternalActors__/level1/C/7R/Z7Q6R3U73252FDU5J7VDZU
+/Game/__ExternalActors__/level1/E/R7/5RH9PL075U48A73QEEUJF9
+/Game/__ExternalActors__/level1/E/AW/22TVROR0J1K8O84RJHTXS3
+/Game/__ExternalActors__/level1/7/J3/OZ8DCXI8U5SF4PCN9NQ7H4
+/Game/__ExternalActors__/level1/5/TJ/Q7IYDH62UNU9W4U21ULIO8
+/Game/__ExternalActors__/level1/9/22/8FO2D35N6T4P58JDOEAJAV
+/Game/__ExternalActors__/level1/B/UZ/WQ6KAD1DVM0Z6WT5UKXG3W
+/Game/__ExternalActors__/level1/2/6J/E9M8679VVD30WS95ICL421
+/Game/__ExternalActors__/level1/C/SD/C1ZDCT5T5SDLSRT6Y66X4B
+/Game/__ExternalActors__/level1/6/7P/732EX2RX6DIP6ERNU7REC4
+/Game/__ExternalActors__/level1/7/AV/20WRAGBBOG88SVKYZEY05C
+/Game/__ExternalActors__/level1/8/5O/P7T2VQ1VVOFOHQ762VK0AX
+/Game/__ExternalActors__/level1/3/CY/HHZS7D10EUY483U5DVBELJ
+/Game/__ExternalActors__/level1/7/0O/XN9I6R4Q5UD95RQ6ORBHN9
+/Game/__ExternalActors__/level1/1/SS/561KT7TGIXZH3MNWIKC556
+/Game/__ExternalActors__/level1/C/QM/AD5DCEWJFTY3J90UKJ5AHE
+/Game/__ExternalActors__/level1/8/8S/QKT6PH13F9CW8O9BRYX1IU
+/Game/__ExternalActors__/level1/D/R7/J468IUGZY8UNTCOW074YKV
+/Game/__ExternalActors__/level1/E/US/R7RL62DVGL7MVYW9QQ3GVK
+/Game/__ExternalActors__/level1/7/BN/2YFE02NCCIPFXW47ZSUQPT
+/Game/__ExternalActors__/level1/4/2O/9JVDM7Y350LB7Z1RF3OTWL
+/Game/__ExternalActors__/level1/A/66/2ZBWQU0P7PQ4OZ31QFMHHN
+/Game/__ExternalActors__/level1/7/WE/8DQ09YC1KKXR2YT90T6JII
+/Game/__ExternalActors__/level1/F/2V/SQ9DTIIZI9NTRTT06LBHW6
+/Game/__ExternalActors__/level1/1/5E/6TD6DV5KNN9G42BRW241TM
+/Game/__ExternalActors__/level1/6/RK/R1XADQTLSNY3UYW7FJL125
+/Game/__ExternalActors__/level1/E/MD/E4ZJ4EMUZ6QVZR8PEHRW4H
+/Game/__ExternalActors__/level1/8/QH/F5S687B26IHH2DICWJG98N
+/Game/__ExternalActors__/level1/1/YA/74DKOWTTSUPNGQSY4P4U8B
+/Game/__ExternalActors__/level1/7/UK/SABPUYBDJSWEQPQKADLQNY
+/Game/__ExternalActors__/level1/C/7D/264MGAPWSLGLV8OPAKR6CZ
+/Game/__ExternalActors__/level1/3/K3/N76RUTQFDV6U36W7W9EGQW
+/Game/__ExternalActors__/level1/3/P6/7VTCXJ31EYV2YRXV8D5EET
+/Game/__ExternalActors__/level1/B/EC/89EDZ2WIUJL8GDIWO8GJ2M
+/Game/__ExternalActors__/level1/2/X3/Q38Z17LKTZGT2KXHL5C1NH
+/Game/__ExternalActors__/level1/2/4A/JHA957Y65QRK7ZUOLQOKPK
+/Game/__ExternalActors__/level1/E/LO/X3H8WW26KPASGVV91ECLFD
+/Game/__ExternalActors__/level1/1/VZ/Z6EMOGXHQCZZ5RXLG9I7AL
+/Game/__ExternalActors__/level1/8/9U/TDSB54AR0SAMX1XT60WDUJ
+/Game/__ExternalActors__/level1/8/YN/XJHAV6NLJHJNB100652VEZ
+/Game/__ExternalActors__/level1/8/2O/GE49HN3BYQNQ06PJQHM0PV
+/Game/__ExternalActors__/level1/4/OA/TJ7JY6QZH9LBU1Q39W1EIP
+/Game/__ExternalActors__/level1/C/6U/0HVLGL0X1RP2B5IKP94LDM
+/Game/__ExternalActors__/level1/0/PO/IWS8NTJSA2TZBPCKXZMZSG
+/Game/__ExternalActors__/level1/6/6E/GHF4CQTO0XRE0ATHNFF7AR
+/Game/__ExternalActors__/level1/4/OH/FVOZP3VJYB0IY5LSKCJJPB
+/Game/__ExternalActors__/level1/5/L2/HZOWK2IWICE3M7LUXNPS68
+/Game/__ExternalActors__/level1/E/XU/RH2427XA9D271VKM64I71B
+/Game/__ExternalActors__/level1/5/YG/6999CDC7NSMOG1NBRJEUR1
+/Game/__ExternalActors__/level1/4/4S/I92QYY76FNO9H7BFZP7SF2
+/Game/__ExternalActors__/level1/5/43/06YW7W7BROL3L9G9LK1K2E
+/Game/__ExternalActors__/level1/8/W9/VSDK8CW573NMV7B800OIK3
+/Game/__ExternalActors__/level1/1/0O/XE4CDO82F7EHW4DSC0Z8W2
+/Game/__ExternalActors__/level1/E/XA/RUPF0YCHVAAUDNKLZBLIP2
+/Game/__ExternalActors__/level1/7/01/G6OWVW9CR0COMW3M6FOQO9
+/Game/__ExternalActors__/level1/D/F4/X23MY13F0KTOB8VI3QQRLK
+/Game/__ExternalActors__/level1/C/QT/H1ZXWLYF1W6YZ9PIJQNUHP
+/Game/__ExternalActors__/level1/E/A0/YXXCXE9ICPZVI3628CEJQP
+/Game/__ExternalActors__/level1/5/CT/O58ZWVNHVJAZE9RXOVDC12
+/Game/__ExternalActors__/level1/A/09/77TOSIQV6BN4H1HEU8U88N
+/Game/__ExternalActors__/level1/7/M2/ZHYYC7K60XJOINZAWKXOMP
+/Game/__ExternalActors__/level1/9/8F/WUWSRW4APSU7RUAK81L5NK
+/Game/__ExternalActors__/level1/1/U9/A24YONZEOE9X6S5YOIJE9U
+/Game/__ExternalActors__/level1/6/5H/V8YWZUDZNJYMEOCNCZUZY5
+/Game/__ExternalActors__/level1/3/AH/OO1F6NVKHUW70CT9XITVO5
+/Game/__ExternalActors__/level1/B/KV/9MTTPG0F1C6Z7DUQ9OX6AG
+/Game/__ExternalActors__/level1/3/DS/FGI5JGB49SDVPRH7DC7D6G
+/Game/__ExternalActors__/level1/2/F1/GX0XYAREZWKTO08GIPWX34
+/Game/__ExternalActors__/level1/B/UY/VYYU714MYYUZ1S425R6S6Z
+/Game/__ExternalActors__/level1/5/OT/OM2VV3W2GL7UMWZ489T4HG
+/Game/__ExternalActors__/level1/C/JR/N4IPP2VMLY3HKFU5Y5D2W0
+/Game/__ExternalActors__/level1/9/3Y/0H1H0ZDZOM2P08KZHJD9EK
+/Game/__ExternalActors__/level1/3/WX/PKNXFEH82R9552M51F8J1C
+/Game/__ExternalActors__/level1/2/AF/6S40IMFJ2LSIRYO3OR11AV
+/Game/__ExternalActors__/level1/B/8O/JH3ZQDX60M421T4XTRYQSW
+/Game/__ExternalActors__/level1/2/Q8/8ARIB4M2J22SWMWY1ENEUI
+/Game/__ExternalActors__/level1/A/ZR/N1KIDETWZIF9ZC7484T9MY
+/Game/__ExternalActors__/level1/4/VW/ZLNG6DT1A8EJW2HVW6M05N
+[2024.04.19-10.26.17:652][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-10.26.17:827][920]LogSavePackage: Moving output files for package: /Game/level1_HLOD0_Instancing
+[2024.04.19-10.26.17:827][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/level1_HLOD0_Instancing876AEC6841735D740AD1BD98670D9B37.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/level1_HLOD0_Instancing.uasset'
+[2024.04.19-10.26.17:829][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG
+[2024.04.19-10.26.17:829][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/1JOXLI3QZ0KUDVPKL4B6BGF263487D4CF72BA65CE598BCBBF575B6.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG.uasset'
+[2024.04.19-10.26.17:831][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/F/22/JL6PFDIHNA1XSTJJHAEN28
+[2024.04.19-10.26.17:831][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/JL6PFDIHNA1XSTJJHAEN285D041EA84FA77E7CFB84159D667CDA02.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/F/22/JL6PFDIHNA1XSTJJHAEN28.uasset'
+[2024.04.19-10.26.17:833][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/B/H3/F3KNAWE8GSDSKUU5VS5KQ0
+[2024.04.19-10.26.17:833][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/F3KNAWE8GSDSKUU5VS5KQ0216EEA2744F24E9975F212A348C8522B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/B/H3/F3KNAWE8GSDSKUU5VS5KQ0.uasset'
+[2024.04.19-10.26.17:834][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/B/1V/D12QAJC6J21OWZR45R2G8M
+[2024.04.19-10.26.17:834][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/D12QAJC6J21OWZR45R2G8M1920C9ED48776A27D0EC4C9C65CE0766.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/B/1V/D12QAJC6J21OWZR45R2G8M.uasset'
+[2024.04.19-10.26.17:836][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/6/IW/RJOFYPADSMRJFM3JL8ZXMJ
+[2024.04.19-10.26.17:836][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/RJOFYPADSMRJFM3JL8ZXMJ8DF86D4C486BD4ED162EBD8736D7E093.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/6/IW/RJOFYPADSMRJFM3JL8ZXMJ.uasset'
+[2024.04.19-10.26.17:837][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/C/JG/GV0ARI6KHL0COFFBB88IC6
+[2024.04.19-10.26.17:837][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/GV0ARI6KHL0COFFBB88IC6C525755E47A021748A86A3BAF215A41B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/C/JG/GV0ARI6KHL0COFFBB88IC6.uasset'
+[2024.04.19-10.26.17:839][920]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/level1/6/61/2VS9DQCGDSQIJB0OEEM7P8
+[2024.04.19-10.26.17:839][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/2VS9DQCGDSQIJB0OEEM7P80D94BAAE442C6728F404DF9A60945D56.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalObjects__/level1/6/61/2VS9DQCGDSQIJB0OEEM7P8.uasset'
+[2024.04.19-10.26.17:843][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/DF/2QUKRIGZ715A6P6FN1SH5G
+[2024.04.19-10.26.17:843][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/2QUKRIGZ715A6P6FN1SH5G199E9F3C4D12B929E64E83904FC171F0.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/DF/2QUKRIGZ715A6P6FN1SH5G.uasset'
+[2024.04.19-10.26.17:846][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/79/5XNEL9ZHGANJOS90RSMGIK
+[2024.04.19-10.26.17:846][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/5XNEL9ZHGANJOS90RSMGIK86A966694791661313C2DA9A2F117CDA.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/79/5XNEL9ZHGANJOS90RSMGIK.uasset'
+[2024.04.19-10.26.17:848][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/DK/C13YY87Z6YYBL9DBB5TLTJ
+[2024.04.19-10.26.17:848][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/C13YY87Z6YYBL9DBB5TLTJ3CE7E1ED4AD84F17ABC86AB22E48A332.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/DK/C13YY87Z6YYBL9DBB5TLTJ.uasset'
+[2024.04.19-10.26.17:850][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/SM/QCFH8XV6Y2E8I46MS099E3
+[2024.04.19-10.26.17:850][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/QCFH8XV6Y2E8I46MS099E3F71E7EDA4E0EDD4EB81E3E8474C5F921.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/SM/QCFH8XV6Y2E8I46MS099E3.uasset'
+[2024.04.19-10.26.17:854][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/6R/OQHI4GKV7R6XYPNL9AJZVF
+[2024.04.19-10.26.17:854][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/OQHI4GKV7R6XYPNL9AJZVF2986A49C4DEE641F95D730B22235340C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/6R/OQHI4GKV7R6XYPNL9AJZVF.uasset'
+[2024.04.19-10.26.17:857][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/P5/N80N9QV1UGP1H3LNG4WPC7
+[2024.04.19-10.26.17:857][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/N80N9QV1UGP1H3LNG4WPC767733ADD48CEB289523BE09B486A72B1.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/P5/N80N9QV1UGP1H3LNG4WPC7.uasset'
+[2024.04.19-10.26.17:859][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/RQ/EZ8X2GP7IWETAGSPXCBT0N
+[2024.04.19-10.26.17:859][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/EZ8X2GP7IWETAGSPXCBT0ND3CEF2844781E3F72A4F8D9CEA62FEE5.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/RQ/EZ8X2GP7IWETAGSPXCBT0N.uasset'
+[2024.04.19-10.26.17:860][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/SO/IUQ0TYJIPXWW98ZTRVCK9W
+[2024.04.19-10.26.17:860][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/IUQ0TYJIPXWW98ZTRVCK9W0BAAE91F42F04F4ADB5444A214DA8023.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/SO/IUQ0TYJIPXWW98ZTRVCK9W.uasset'
+[2024.04.19-10.26.17:863][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/5C/B08JIUWQ158PPAXSJURA4H
+[2024.04.19-10.26.17:863][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/B08JIUWQ158PPAXSJURA4H75CE14FC43E4B49AC63D889A1819227E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/5C/B08JIUWQ158PPAXSJURA4H.uasset'
+[2024.04.19-10.26.17:873][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/3H/KGWD41AVVMTQBRNXP6T9Q1
+[2024.04.19-10.26.17:873][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/KGWD41AVVMTQBRNXP6T9Q1739CF969415A8BB1AD29A8929875F7DD.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/3H/KGWD41AVVMTQBRNXP6T9Q1.uasset'
+[2024.04.19-10.26.17:882][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/9A/I31WKEU22PQGVI2BPORQQG
+[2024.04.19-10.26.17:882][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/I31WKEU22PQGVI2BPORQQGF7B6D3A1417FA40BBDF9C4A6C6BC735B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/9A/I31WKEU22PQGVI2BPORQQG.uasset'
+[2024.04.19-10.26.17:891][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/D/1Y/0K54XX3PTJ6PPYJAGNJVEM
+[2024.04.19-10.26.17:891][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/0K54XX3PTJ6PPYJAGNJVEM48CA38C14BA2CC2AD5CE51B8C9D645FE.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/D/1Y/0K54XX3PTJ6PPYJAGNJVEM.uasset'
+[2024.04.19-10.26.17:901][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/45/EJSPYZOAABTI20FGJDK5FZ
+[2024.04.19-10.26.17:901][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/EJSPYZOAABTI20FGJDK5FZA7A2E5CE4689626C54A66C921A5D91A3.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/45/EJSPYZOAABTI20FGJDK5FZ.uasset'
+[2024.04.19-10.26.17:910][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/V6/DKLBR9DIZV5ZQ9BXT4RX19
+[2024.04.19-10.26.17:910][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/DKLBR9DIZV5ZQ9BXT4RX1932FF7DFC4564626FBBCF6DA481E2B448.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/V6/DKLBR9DIZV5ZQ9BXT4RX19.uasset'
+[2024.04.19-10.26.17:919][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/ON/PA1QN670MUYPIGT4CAUVK0
+[2024.04.19-10.26.17:919][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/PA1QN670MUYPIGT4CAUVK0F8D16B9240E7C15072D0FBBAAD738C07.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/ON/PA1QN670MUYPIGT4CAUVK0.uasset'
+[2024.04.19-10.26.17:927][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/D/VI/1ALP4KWDM7FJ13JRVV4KC8
+[2024.04.19-10.26.17:927][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/1ALP4KWDM7FJ13JRVV4KC896785EAC49BB1D6323C105BE10A25A31.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/D/VI/1ALP4KWDM7FJ13JRVV4KC8.uasset'
+[2024.04.19-10.26.17:937][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/DT/S5F2WYNG2TEYBWD8ZQ7FPG
+[2024.04.19-10.26.17:937][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/S5F2WYNG2TEYBWD8ZQ7FPG699710B848BA3E05841F7881946E2264.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/DT/S5F2WYNG2TEYBWD8ZQ7FPG.uasset'
+[2024.04.19-10.26.17:947][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/RY/Y9H4SFRB26E6E99RNHKAZR
+[2024.04.19-10.26.17:947][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Y9H4SFRB26E6E99RNHKAZR97276C454325DF13A3EB8581CD080CCD.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/RY/Y9H4SFRB26E6E99RNHKAZR.uasset'
+[2024.04.19-10.26.17:957][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/H9/25ZUPMSPRGASY3NV7XE4D8
+[2024.04.19-10.26.17:957][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/25ZUPMSPRGASY3NV7XE4D827383C544FB0EDD0D7CAC6BCA59A437F.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/H9/25ZUPMSPRGASY3NV7XE4D8.uasset'
+[2024.04.19-10.26.17:966][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/37/IWJDFK578NPPI3FHDXSWA6
+[2024.04.19-10.26.17:966][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/IWJDFK578NPPI3FHDXSWA6AFC730E44445ABB18E3AEAB2A135916F.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/37/IWJDFK578NPPI3FHDXSWA6.uasset'
+[2024.04.19-10.26.17:975][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/BM/HDZX93NNP1VAINY4HHJYYU
+[2024.04.19-10.26.17:975][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/HDZX93NNP1VAINY4HHJYYU26FC318F449D0452413C22BDA6580833.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/BM/HDZX93NNP1VAINY4HHJYYU.uasset'
+[2024.04.19-10.26.17:984][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/W3/6207B3XWTKRZW7RJM4UE4T
+[2024.04.19-10.26.17:984][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/6207B3XWTKRZW7RJM4UE4T72AD395541FD1B7928C87CBE1477377E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/W3/6207B3XWTKRZW7RJM4UE4T.uasset'
+[2024.04.19-10.26.17:994][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/7B/524A6TU6CZXWXSB2JH1CP5
+[2024.04.19-10.26.17:994][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/524A6TU6CZXWXSB2JH1CP59D19D9964F49ED3FD355AAB55B98D5FF.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/7B/524A6TU6CZXWXSB2JH1CP5.uasset'
+[2024.04.19-10.26.18:003][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/1S/8RYMGFK5OSNSGTMXI0T6NW
+[2024.04.19-10.26.18:003][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8RYMGFK5OSNSGTMXI0T6NW52756E9544A45278ED6D4494D3E7D852.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/1S/8RYMGFK5OSNSGTMXI0T6NW.uasset'
+[2024.04.19-10.26.18:012][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/JX/R96YXGFUXWIX7RSXT39DSG
+[2024.04.19-10.26.18:012][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/R96YXGFUXWIX7RSXT39DSGD7CBFF3D4A62B2C6865EBDB238877DFC.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/JX/R96YXGFUXWIX7RSXT39DSG.uasset'
+[2024.04.19-10.26.18:022][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/7W/16IU7RR5W4VLB8GQI10S01
+[2024.04.19-10.26.18:022][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/16IU7RR5W4VLB8GQI10S010204D6D940647FDCB52B25A3BC096B93.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/7W/16IU7RR5W4VLB8GQI10S01.uasset'
+[2024.04.19-10.26.18:032][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/JU/2PT7RA9F601L2EF3DUU4OE
+[2024.04.19-10.26.18:032][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/2PT7RA9F601L2EF3DUU4OE07AD18AA4712A7B920D626AD876D3174.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/JU/2PT7RA9F601L2EF3DUU4OE.uasset'
+[2024.04.19-10.26.18:041][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/ZK/NZPM2DF5GL7ADI2L0O5QFI
+[2024.04.19-10.26.18:041][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/NZPM2DF5GL7ADI2L0O5QFI530EE2974B5A5828B644FDAA1848CD5C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/ZK/NZPM2DF5GL7ADI2L0O5QFI.uasset'
+[2024.04.19-10.26.18:050][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/KI/1FZ2RGADQW3B9XOGYLQAIC
+[2024.04.19-10.26.18:050][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/1FZ2RGADQW3B9XOGYLQAICB0ED795044F68B78AD4A55BE828D1F1B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/KI/1FZ2RGADQW3B9XOGYLQAIC.uasset'
+[2024.04.19-10.26.18:064][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/YB/F07YBHWQKNIAO0LR8NLF6Y
+[2024.04.19-10.26.18:064][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/F07YBHWQKNIAO0LR8NLF6YFE66B0E4491C470CF0E409B846696F82.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/YB/F07YBHWQKNIAO0LR8NLF6Y.uasset'
+[2024.04.19-10.26.18:073][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/KK/8VFAMR068Q1AZ9XOV8NS0I
+[2024.04.19-10.26.18:073][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8VFAMR068Q1AZ9XOV8NS0I99CB4E0348CB36E7156D6E982443556D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/KK/8VFAMR068Q1AZ9XOV8NS0I.uasset'
+[2024.04.19-10.26.18:083][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/7M/7TT97N5SNCU2ZATYMH2GF1
+[2024.04.19-10.26.18:083][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/7TT97N5SNCU2ZATYMH2GF1283F124542AFC18D873C0FB8B3026C97.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/7M/7TT97N5SNCU2ZATYMH2GF1.uasset'
+[2024.04.19-10.26.18:092][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/BD/OBKG4JN42452BP85T3XKPI
+[2024.04.19-10.26.18:092][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/OBKG4JN42452BP85T3XKPIC9DE08BC42A59FD575C0539D32055F03.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/BD/OBKG4JN42452BP85T3XKPI.uasset'
+[2024.04.19-10.26.18:101][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/HR/IPH662YDOJYMZ8I4DEETSA
+[2024.04.19-10.26.18:101][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/IPH662YDOJYMZ8I4DEETSA0244350D44B43916AE2B938C0C14E6F4.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/HR/IPH662YDOJYMZ8I4DEETSA.uasset'
+[2024.04.19-10.26.18:110][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/E7/3D68VQBXJ9FFAX73PD5NUE
+[2024.04.19-10.26.18:110][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/3D68VQBXJ9FFAX73PD5NUE5DDED0FD4C5905A2DD5F03A69EEA0ED0.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/E7/3D68VQBXJ9FFAX73PD5NUE.uasset'
+[2024.04.19-10.26.18:119][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/EO/8A2IS9PHV4JWN0XJD4SUWC
+[2024.04.19-10.26.18:120][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8A2IS9PHV4JWN0XJD4SUWC1C30CAD7415DEFEA285A8C8C63EB1C28.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/EO/8A2IS9PHV4JWN0XJD4SUWC.uasset'
+[2024.04.19-10.26.18:129][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/D7/AD34W3MR0JY3E7IXYMHKFQ
+[2024.04.19-10.26.18:129][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/AD34W3MR0JY3E7IXYMHKFQB24B050B49FF9F3FBE68E882F51D8CF6.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/D7/AD34W3MR0JY3E7IXYMHKFQ.uasset'
+[2024.04.19-10.26.18:138][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/7T/A0JWKH6R63G0ULJJ22SQ6Q
+[2024.04.19-10.26.18:138][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/A0JWKH6R63G0ULJJ22SQ6Q83A4F5D74B3ABDC4C261349DC4818122.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/7T/A0JWKH6R63G0ULJJ22SQ6Q.uasset'
+[2024.04.19-10.26.18:147][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/2D/3YOCEWATK3QK5591930POJ
+[2024.04.19-10.26.18:147][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/3YOCEWATK3QK5591930POJ8AB4E49D40C73343DF42B9A491B0E2A6.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/2D/3YOCEWATK3QK5591930POJ.uasset'
+[2024.04.19-10.26.18:156][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/D/I1/V8RIVTPRM131CB28BF92HQ
+[2024.04.19-10.26.18:156][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/V8RIVTPRM131CB28BF92HQ4196AB71427B68040B6DBE9E2A3B6F4B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/D/I1/V8RIVTPRM131CB28BF92HQ.uasset'
+[2024.04.19-10.26.18:165][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/7K/JB48TLZHIYXRMGWH840W6J
+[2024.04.19-10.26.18:165][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/JB48TLZHIYXRMGWH840W6JD60492324B72ABE8F3B719BB8EEFB86F.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/7K/JB48TLZHIYXRMGWH840W6J.uasset'
+[2024.04.19-10.26.18:174][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/9/DG/K1M3JB5C7V68YBJ4FZH98B
+[2024.04.19-10.26.18:174][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/K1M3JB5C7V68YBJ4FZH98B4D027ADD4943812718E0D8A644EA545C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/9/DG/K1M3JB5C7V68YBJ4FZH98B.uasset'
+[2024.04.19-10.26.18:183][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/EL/98MCC5ZU3AIE5CZU7V2MTQ
+[2024.04.19-10.26.18:183][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/98MCC5ZU3AIE5CZU7V2MTQ7D8D974B40E06DDB13FADBBE95E95F75.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/EL/98MCC5ZU3AIE5CZU7V2MTQ.uasset'
+[2024.04.19-10.26.18:192][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/9/Q3/DHI9KI13E7AVU5OK6E3P0N
+[2024.04.19-10.26.18:192][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/DHI9KI13E7AVU5OK6E3P0N572DDCF144918FD2D71D3C96A4E07024.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/9/Q3/DHI9KI13E7AVU5OK6E3P0N.uasset'
+[2024.04.19-10.26.18:200][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/7R/Z7Q6R3U73252FDU5J7VDZU
+[2024.04.19-10.26.18:200][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Z7Q6R3U73252FDU5J7VDZU7F3DB0704D771B29EEC2B498DFB9B940.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/7R/Z7Q6R3U73252FDU5J7VDZU.uasset'
+[2024.04.19-10.26.18:209][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/R7/5RH9PL075U48A73QEEUJF9
+[2024.04.19-10.26.18:209][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/5RH9PL075U48A73QEEUJF95929545E4222B370BDF6E7BBDE172E15.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/R7/5RH9PL075U48A73QEEUJF9.uasset'
+[2024.04.19-10.26.18:219][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/AW/22TVROR0J1K8O84RJHTXS3
+[2024.04.19-10.26.18:219][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/22TVROR0J1K8O84RJHTXS3603FE2B1459B991126CA8E8CDFE45BA3.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/AW/22TVROR0J1K8O84RJHTXS3.uasset'
+[2024.04.19-10.26.18:228][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/J3/OZ8DCXI8U5SF4PCN9NQ7H4
+[2024.04.19-10.26.18:228][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/OZ8DCXI8U5SF4PCN9NQ7H4576D444E4FB52B2925B900B2BF6F9B29.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/J3/OZ8DCXI8U5SF4PCN9NQ7H4.uasset'
+[2024.04.19-10.26.18:237][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/TJ/Q7IYDH62UNU9W4U21ULIO8
+[2024.04.19-10.26.18:237][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Q7IYDH62UNU9W4U21ULIO8B6B89A1D4A173A7CA0B3688FA3724BB7.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/TJ/Q7IYDH62UNU9W4U21ULIO8.uasset'
+[2024.04.19-10.26.18:246][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/9/22/8FO2D35N6T4P58JDOEAJAV
+[2024.04.19-10.26.18:246][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8FO2D35N6T4P58JDOEAJAV4FC24F7946104BF850A41E9938D1AA22.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/9/22/8FO2D35N6T4P58JDOEAJAV.uasset'
+[2024.04.19-10.26.18:256][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/B/UZ/WQ6KAD1DVM0Z6WT5UKXG3W
+[2024.04.19-10.26.18:256][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/WQ6KAD1DVM0Z6WT5UKXG3W2F5C8D96450989DC66221F947356C8B4.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/B/UZ/WQ6KAD1DVM0Z6WT5UKXG3W.uasset'
+[2024.04.19-10.26.18:265][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/6J/E9M8679VVD30WS95ICL421
+[2024.04.19-10.26.18:265][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/E9M8679VVD30WS95ICL4210BF9FB834ACF76FEF2F5FFA3B7FA08CD.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/6J/E9M8679VVD30WS95ICL421.uasset'
+[2024.04.19-10.26.18:275][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/SD/C1ZDCT5T5SDLSRT6Y66X4B
+[2024.04.19-10.26.18:275][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/C1ZDCT5T5SDLSRT6Y66X4B739A1EE84B332487C2BC8E80D3FA2FCE.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/SD/C1ZDCT5T5SDLSRT6Y66X4B.uasset'
+[2024.04.19-10.26.18:284][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/7P/732EX2RX6DIP6ERNU7REC4
+[2024.04.19-10.26.18:284][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/732EX2RX6DIP6ERNU7REC40692E9514EB5E0ADEEC5839EB7F90804.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/7P/732EX2RX6DIP6ERNU7REC4.uasset'
+[2024.04.19-10.26.18:293][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/AV/20WRAGBBOG88SVKYZEY05C
+[2024.04.19-10.26.18:293][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/20WRAGBBOG88SVKYZEY05C7827EED846B6A0232036B18F68B58F8B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/AV/20WRAGBBOG88SVKYZEY05C.uasset'
+[2024.04.19-10.26.18:303][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/5O/P7T2VQ1VVOFOHQ762VK0AX
+[2024.04.19-10.26.18:303][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/P7T2VQ1VVOFOHQ762VK0AXD2522D734290F12ACDADE8A2B6F72B59.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/5O/P7T2VQ1VVOFOHQ762VK0AX.uasset'
+[2024.04.19-10.26.18:312][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/CY/HHZS7D10EUY483U5DVBELJ
+[2024.04.19-10.26.18:312][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/HHZS7D10EUY483U5DVBELJ36D23EA74F49336BF5CB09A7EBDDBFFB.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/CY/HHZS7D10EUY483U5DVBELJ.uasset'
+[2024.04.19-10.26.18:322][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/0O/XN9I6R4Q5UD95RQ6ORBHN9
+[2024.04.19-10.26.18:322][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/XN9I6R4Q5UD95RQ6ORBHN95A3F4F554E9A98A541DEF089D219F5FE.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/0O/XN9I6R4Q5UD95RQ6ORBHN9.uasset'
+[2024.04.19-10.26.18:331][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/SS/561KT7TGIXZH3MNWIKC556
+[2024.04.19-10.26.18:331][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/561KT7TGIXZH3MNWIKC556F37B01F640B86F65F796EBA4B2A6865D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/SS/561KT7TGIXZH3MNWIKC556.uasset'
+[2024.04.19-10.26.18:341][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/QM/AD5DCEWJFTY3J90UKJ5AHE
+[2024.04.19-10.26.18:341][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/AD5DCEWJFTY3J90UKJ5AHEA4394DFA424C663B0C4A03855959A541.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/QM/AD5DCEWJFTY3J90UKJ5AHE.uasset'
+[2024.04.19-10.26.18:349][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/8S/QKT6PH13F9CW8O9BRYX1IU
+[2024.04.19-10.26.18:349][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/QKT6PH13F9CW8O9BRYX1IU6944752B476944B2931A3BBA80696D89.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/8S/QKT6PH13F9CW8O9BRYX1IU.uasset'
+[2024.04.19-10.26.18:358][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/D/R7/J468IUGZY8UNTCOW074YKV
+[2024.04.19-10.26.18:358][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/J468IUGZY8UNTCOW074YKV5D6FBECD4586BEEAAA0E5BBC7004D2B2.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/D/R7/J468IUGZY8UNTCOW074YKV.uasset'
+[2024.04.19-10.26.18:367][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/US/R7RL62DVGL7MVYW9QQ3GVK
+[2024.04.19-10.26.18:367][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/R7RL62DVGL7MVYW9QQ3GVK6A8FDEA54CF5996B400424AB9F5F7D6D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/US/R7RL62DVGL7MVYW9QQ3GVK.uasset'
+[2024.04.19-10.26.18:376][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/BN/2YFE02NCCIPFXW47ZSUQPT
+[2024.04.19-10.26.18:376][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/2YFE02NCCIPFXW47ZSUQPT90BEE841412005F57E10F4B8A8DCB8EF.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/BN/2YFE02NCCIPFXW47ZSUQPT.uasset'
+[2024.04.19-10.26.18:385][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/2O/9JVDM7Y350LB7Z1RF3OTWL
+[2024.04.19-10.26.18:385][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/9JVDM7Y350LB7Z1RF3OTWL2B68139947FFC08214382396B4414608.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/2O/9JVDM7Y350LB7Z1RF3OTWL.uasset'
+[2024.04.19-10.26.18:394][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/66/2ZBWQU0P7PQ4OZ31QFMHHN
+[2024.04.19-10.26.18:394][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/2ZBWQU0P7PQ4OZ31QFMHHN70FA32F7470E175740DF52ADAACBBE10.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/66/2ZBWQU0P7PQ4OZ31QFMHHN.uasset'
+[2024.04.19-10.26.18:403][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/WE/8DQ09YC1KKXR2YT90T6JII
+[2024.04.19-10.26.18:403][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8DQ09YC1KKXR2YT90T6JIIA67001314D8AB52762BE9B98F8EA581D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/WE/8DQ09YC1KKXR2YT90T6JII.uasset'
+[2024.04.19-10.26.18:412][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/F/2V/SQ9DTIIZI9NTRTT06LBHW6
+[2024.04.19-10.26.18:412][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/SQ9DTIIZI9NTRTT06LBHW63AE55551482F6BA1265F1990ADB8A7E5.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/F/2V/SQ9DTIIZI9NTRTT06LBHW6.uasset'
+[2024.04.19-10.26.18:422][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/5E/6TD6DV5KNN9G42BRW241TM
+[2024.04.19-10.26.18:422][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/6TD6DV5KNN9G42BRW241TME9608162400894454769D49A0E94F83A.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/5E/6TD6DV5KNN9G42BRW241TM.uasset'
+[2024.04.19-10.26.18:431][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/RK/R1XADQTLSNY3UYW7FJL125
+[2024.04.19-10.26.18:431][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/R1XADQTLSNY3UYW7FJL1253A6BCD89485E42F741D945B049238A07.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/RK/R1XADQTLSNY3UYW7FJL125.uasset'
+[2024.04.19-10.26.18:440][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/MD/E4ZJ4EMUZ6QVZR8PEHRW4H
+[2024.04.19-10.26.18:440][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/E4ZJ4EMUZ6QVZR8PEHRW4H14D92B0B4F987E70E78E0DAB25A80A41.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/MD/E4ZJ4EMUZ6QVZR8PEHRW4H.uasset'
+[2024.04.19-10.26.18:449][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/QH/F5S687B26IHH2DICWJG98N
+[2024.04.19-10.26.18:450][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/F5S687B26IHH2DICWJG98N7A24143049BA7EDD6EED06B1C8694EFA.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/QH/F5S687B26IHH2DICWJG98N.uasset'
+[2024.04.19-10.26.18:460][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/YA/74DKOWTTSUPNGQSY4P4U8B
+[2024.04.19-10.26.18:460][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/74DKOWTTSUPNGQSY4P4U8BB057730C4D8EB61A8F6FCFA499BAA08E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/YA/74DKOWTTSUPNGQSY4P4U8B.uasset'
+[2024.04.19-10.26.18:474][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/UK/SABPUYBDJSWEQPQKADLQNY
+[2024.04.19-10.26.18:474][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/SABPUYBDJSWEQPQKADLQNY51CE6AB341A812FF7205F4A13F620B92.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/UK/SABPUYBDJSWEQPQKADLQNY.uasset'
+[2024.04.19-10.26.18:479][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/7D/264MGAPWSLGLV8OPAKR6CZ
+[2024.04.19-10.26.18:479][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/264MGAPWSLGLV8OPAKR6CZ5BD786C34926257B2A5E74A4E3AC6E20.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/7D/264MGAPWSLGLV8OPAKR6CZ.uasset'
+[2024.04.19-10.26.18:484][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/K3/N76RUTQFDV6U36W7W9EGQW
+[2024.04.19-10.26.18:484][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/N76RUTQFDV6U36W7W9EGQW83D30AA44D0944D5B28709963CAA9C1B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/K3/N76RUTQFDV6U36W7W9EGQW.uasset'
+[2024.04.19-10.26.18:494][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/P6/7VTCXJ31EYV2YRXV8D5EET
+[2024.04.19-10.26.18:494][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/7VTCXJ31EYV2YRXV8D5EET978F81134EFD3B476BBF5F834CEF9E6F.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/P6/7VTCXJ31EYV2YRXV8D5EET.uasset'
+[2024.04.19-10.26.18:501][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/B/EC/89EDZ2WIUJL8GDIWO8GJ2M
+[2024.04.19-10.26.18:501][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/89EDZ2WIUJL8GDIWO8GJ2M3E7A63A84299616F724CDBB440C0A8AA.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/B/EC/89EDZ2WIUJL8GDIWO8GJ2M.uasset'
+[2024.04.19-10.26.18:507][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/X3/Q38Z17LKTZGT2KXHL5C1NH
+[2024.04.19-10.26.18:507][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Q38Z17LKTZGT2KXHL5C1NH14D0CD8F4CA9839594E4D598F962AC59.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/X3/Q38Z17LKTZGT2KXHL5C1NH.uasset'
+[2024.04.19-10.26.18:512][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/4A/JHA957Y65QRK7ZUOLQOKPK
+[2024.04.19-10.26.18:512][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/JHA957Y65QRK7ZUOLQOKPKBFE6F29245F7EFC8F05729A4C8E3C7BF.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/4A/JHA957Y65QRK7ZUOLQOKPK.uasset'
+[2024.04.19-10.26.18:517][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/LO/X3H8WW26KPASGVV91ECLFD
+[2024.04.19-10.26.18:517][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/X3H8WW26KPASGVV91ECLFD4C52CE18497460D0976B4198DB3F1332.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/LO/X3H8WW26KPASGVV91ECLFD.uasset'
+[2024.04.19-10.26.18:525][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/VZ/Z6EMOGXHQCZZ5RXLG9I7AL
+[2024.04.19-10.26.18:525][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Z6EMOGXHQCZZ5RXLG9I7AL2C50A21E467CA590500C478C677CB17C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/VZ/Z6EMOGXHQCZZ5RXLG9I7AL.uasset'
+[2024.04.19-10.26.18:531][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/9U/TDSB54AR0SAMX1XT60WDUJ
+[2024.04.19-10.26.18:531][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/TDSB54AR0SAMX1XT60WDUJ4245488143D47CEFE1C6F89ECDAE7C8A.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/9U/TDSB54AR0SAMX1XT60WDUJ.uasset'
+[2024.04.19-10.26.18:538][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/YN/XJHAV6NLJHJNB100652VEZ
+[2024.04.19-10.26.18:538][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/XJHAV6NLJHJNB100652VEZ0EA3937545B05FDAC8F518AE07C8083C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/YN/XJHAV6NLJHJNB100652VEZ.uasset'
+[2024.04.19-10.26.18:546][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/2O/GE49HN3BYQNQ06PJQHM0PV
+[2024.04.19-10.26.18:546][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/GE49HN3BYQNQ06PJQHM0PV04AFCA9540647B2BC6B3BBB9C82C3C2E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/2O/GE49HN3BYQNQ06PJQHM0PV.uasset'
+[2024.04.19-10.26.18:551][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/OA/TJ7JY6QZH9LBU1Q39W1EIP
+[2024.04.19-10.26.18:551][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/TJ7JY6QZH9LBU1Q39W1EIP2184180A410BAC68925FAF8D67CBC66B.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/OA/TJ7JY6QZH9LBU1Q39W1EIP.uasset'
+[2024.04.19-10.26.18:556][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/6U/0HVLGL0X1RP2B5IKP94LDM
+[2024.04.19-10.26.18:556][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/0HVLGL0X1RP2B5IKP94LDM5B1E8750462B3D853D34CDA0D375768A.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/6U/0HVLGL0X1RP2B5IKP94LDM.uasset'
+[2024.04.19-10.26.18:562][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/0/PO/IWS8NTJSA2TZBPCKXZMZSG
+[2024.04.19-10.26.18:562][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/IWS8NTJSA2TZBPCKXZMZSG4F12C68F4D635E67D0F8D1A3CCD5B61D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/0/PO/IWS8NTJSA2TZBPCKXZMZSG.uasset'
+[2024.04.19-10.26.18:567][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/6E/GHF4CQTO0XRE0ATHNFF7AR
+[2024.04.19-10.26.18:567][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/GHF4CQTO0XRE0ATHNFF7ARC76BBDE641BA2CE268B3CA906B43064D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/6E/GHF4CQTO0XRE0ATHNFF7AR.uasset'
+[2024.04.19-10.26.18:572][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/OH/FVOZP3VJYB0IY5LSKCJJPB
+[2024.04.19-10.26.18:572][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/FVOZP3VJYB0IY5LSKCJJPB9876232F420CB01AF0A54B9A8EE3AD91.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/OH/FVOZP3VJYB0IY5LSKCJJPB.uasset'
+[2024.04.19-10.26.18:577][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/L2/HZOWK2IWICE3M7LUXNPS68
+[2024.04.19-10.26.18:577][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/HZOWK2IWICE3M7LUXNPS684C074A7441A3548D297C718D5F759898.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/L2/HZOWK2IWICE3M7LUXNPS68.uasset'
+[2024.04.19-10.26.18:583][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/XU/RH2427XA9D271VKM64I71B
+[2024.04.19-10.26.18:583][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/RH2427XA9D271VKM64I71BCE2350804DE4F7EE7203B791D8C6A35D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/XU/RH2427XA9D271VKM64I71B.uasset'
+[2024.04.19-10.26.18:588][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/YG/6999CDC7NSMOG1NBRJEUR1
+[2024.04.19-10.26.18:588][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/6999CDC7NSMOG1NBRJEUR1037D653A43830F1E70A7CC8ACB3F0445.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/YG/6999CDC7NSMOG1NBRJEUR1.uasset'
+[2024.04.19-10.26.18:596][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/4S/I92QYY76FNO9H7BFZP7SF2
+[2024.04.19-10.26.18:596][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/I92QYY76FNO9H7BFZP7SF2DF6B14DE4DEB8E5EF4469FA7E25F96FB.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/4S/I92QYY76FNO9H7BFZP7SF2.uasset'
+[2024.04.19-10.26.18:603][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/43/06YW7W7BROL3L9G9LK1K2E
+[2024.04.19-10.26.18:603][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/06YW7W7BROL3L9G9LK1K2E87FD340143E76117035FC6B3615E4DFB.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/43/06YW7W7BROL3L9G9LK1K2E.uasset'
+[2024.04.19-10.26.18:611][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/8/W9/VSDK8CW573NMV7B800OIK3
+[2024.04.19-10.26.18:611][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/VSDK8CW573NMV7B800OIK3277C445D4D32E09E185BDCB40350B024.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/8/W9/VSDK8CW573NMV7B800OIK3.uasset'
+[2024.04.19-10.26.18:616][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/0O/XE4CDO82F7EHW4DSC0Z8W2
+[2024.04.19-10.26.18:616][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/XE4CDO82F7EHW4DSC0Z8W2DE7262854C0149D53F566F94EB923AD3.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/0O/XE4CDO82F7EHW4DSC0Z8W2.uasset'
+[2024.04.19-10.26.18:622][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/XA/RUPF0YCHVAAUDNKLZBLIP2
+[2024.04.19-10.26.18:622][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/RUPF0YCHVAAUDNKLZBLIP271CAA8C347B9B09245D40FAE9111229E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/XA/RUPF0YCHVAAUDNKLZBLIP2.uasset'
+[2024.04.19-10.26.18:627][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/01/G6OWVW9CR0COMW3M6FOQO9
+[2024.04.19-10.26.18:627][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/G6OWVW9CR0COMW3M6FOQO91B6AAEDC4230CEB9AC1C4085BA62A26E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/01/G6OWVW9CR0COMW3M6FOQO9.uasset'
+[2024.04.19-10.26.18:632][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/D/F4/X23MY13F0KTOB8VI3QQRLK
+[2024.04.19-10.26.18:632][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/X23MY13F0KTOB8VI3QQRLK8C7EE0B74AFE10F564D468BE86D0A6C2.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/D/F4/X23MY13F0KTOB8VI3QQRLK.uasset'
+[2024.04.19-10.26.18:638][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/QT/H1ZXWLYF1W6YZ9PIJQNUHP
+[2024.04.19-10.26.18:638][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/H1ZXWLYF1W6YZ9PIJQNUHP96F7AAF242E8D7A907F8F5A65C87AECA.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/QT/H1ZXWLYF1W6YZ9PIJQNUHP.uasset'
+[2024.04.19-10.26.18:643][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/E/A0/YXXCXE9ICPZVI3628CEJQP
+[2024.04.19-10.26.18:643][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/YXXCXE9ICPZVI3628CEJQP9A8F116542323793899B0DB75DF85DD6.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/E/A0/YXXCXE9ICPZVI3628CEJQP.uasset'
+[2024.04.19-10.26.18:649][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/CT/O58ZWVNHVJAZE9RXOVDC12
+[2024.04.19-10.26.18:649][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/O58ZWVNHVJAZE9RXOVDC128F14FEB64909430184E50098095D132E.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/CT/O58ZWVNHVJAZE9RXOVDC12.uasset'
+[2024.04.19-10.26.18:656][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/09/77TOSIQV6BN4H1HEU8U88N
+[2024.04.19-10.26.18:656][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/77TOSIQV6BN4H1HEU8U88N50B703BB41AD1E37AC057394D27F3768.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/09/77TOSIQV6BN4H1HEU8U88N.uasset'
+[2024.04.19-10.26.18:661][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/7/M2/ZHYYC7K60XJOINZAWKXOMP
+[2024.04.19-10.26.18:662][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/ZHYYC7K60XJOINZAWKXOMP23A4202F49FF4A847F69DDBDF6165F9A.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/7/M2/ZHYYC7K60XJOINZAWKXOMP.uasset'
+[2024.04.19-10.26.18:667][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/9/8F/WUWSRW4APSU7RUAK81L5NK
+[2024.04.19-10.26.18:667][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/WUWSRW4APSU7RUAK81L5NKB49F1D74411B38D040B925A1EBD9E95D.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/9/8F/WUWSRW4APSU7RUAK81L5NK.uasset'
+[2024.04.19-10.26.18:672][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/1/U9/A24YONZEOE9X6S5YOIJE9U
+[2024.04.19-10.26.18:672][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/A24YONZEOE9X6S5YOIJE9U448C0EBF419BA07E04C9DAA26E438007.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/1/U9/A24YONZEOE9X6S5YOIJE9U.uasset'
+[2024.04.19-10.26.18:678][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/6/5H/V8YWZUDZNJYMEOCNCZUZY5
+[2024.04.19-10.26.18:678][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/V8YWZUDZNJYMEOCNCZUZY5888A1D784C65F72FAFB290ADDF965D40.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/6/5H/V8YWZUDZNJYMEOCNCZUZY5.uasset'
+[2024.04.19-10.26.18:684][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/AH/OO1F6NVKHUW70CT9XITVO5
+[2024.04.19-10.26.18:684][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/OO1F6NVKHUW70CT9XITVO546CF54FC453FA5D8CB0902AC6D49F2D2.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/AH/OO1F6NVKHUW70CT9XITVO5.uasset'
+[2024.04.19-10.26.18:691][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/B/KV/9MTTPG0F1C6Z7DUQ9OX6AG
+[2024.04.19-10.26.18:691][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/9MTTPG0F1C6Z7DUQ9OX6AGD74135A846B1ED1B66C2EDA2257B1865.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/B/KV/9MTTPG0F1C6Z7DUQ9OX6AG.uasset'
+[2024.04.19-10.26.18:698][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/DS/FGI5JGB49SDVPRH7DC7D6G
+[2024.04.19-10.26.18:698][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/FGI5JGB49SDVPRH7DC7D6GE1BCEA2E4178BF8DFF6D43A12AE64C10.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/DS/FGI5JGB49SDVPRH7DC7D6G.uasset'
+[2024.04.19-10.26.18:706][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/F1/GX0XYAREZWKTO08GIPWX34
+[2024.04.19-10.26.18:706][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/GX0XYAREZWKTO08GIPWX34278250674C3859DC7034038D0B9241AD.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/F1/GX0XYAREZWKTO08GIPWX34.uasset'
+[2024.04.19-10.26.18:712][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/B/UY/VYYU714MYYUZ1S425R6S6Z
+[2024.04.19-10.26.18:712][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/VYYU714MYYUZ1S425R6S6Z39AFA9324F47251DCA69FBB059498A81.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/B/UY/VYYU714MYYUZ1S425R6S6Z.uasset'
+[2024.04.19-10.26.18:717][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/5/OT/OM2VV3W2GL7UMWZ489T4HG
+[2024.04.19-10.26.18:717][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/OM2VV3W2GL7UMWZ489T4HG891025B14601AF226358438675507ECD.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/5/OT/OM2VV3W2GL7UMWZ489T4HG.uasset'
+[2024.04.19-10.26.18:722][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/C/JR/N4IPP2VMLY3HKFU5Y5D2W0
+[2024.04.19-10.26.18:722][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/N4IPP2VMLY3HKFU5Y5D2W0CCE495A742F1D66A46F1278C1BAD606C.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/C/JR/N4IPP2VMLY3HKFU5Y5D2W0.uasset'
+[2024.04.19-10.26.18:730][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/9/3Y/0H1H0ZDZOM2P08KZHJD9EK
+[2024.04.19-10.26.18:730][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/0H1H0ZDZOM2P08KZHJD9EK4AD8DB7F49A557DFD4A9948CB383F7BE.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/9/3Y/0H1H0ZDZOM2P08KZHJD9EK.uasset'
+[2024.04.19-10.26.18:736][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/3/WX/PKNXFEH82R9552M51F8J1C
+[2024.04.19-10.26.18:736][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/PKNXFEH82R9552M51F8J1C6E0F7F7641DA832CB8BE37A695832286.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/3/WX/PKNXFEH82R9552M51F8J1C.uasset'
+[2024.04.19-10.26.18:741][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/AF/6S40IMFJ2LSIRYO3OR11AV
+[2024.04.19-10.26.18:741][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/6S40IMFJ2LSIRYO3OR11AV37868C4A46F873E726DB5F829DDA94D2.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/AF/6S40IMFJ2LSIRYO3OR11AV.uasset'
+[2024.04.19-10.26.18:746][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/B/8O/JH3ZQDX60M421T4XTRYQSW
+[2024.04.19-10.26.18:746][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/JH3ZQDX60M421T4XTRYQSW061438464093F2E2020BDCB4DF373FA2.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/B/8O/JH3ZQDX60M421T4XTRYQSW.uasset'
+[2024.04.19-10.26.18:751][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/2/Q8/8ARIB4M2J22SWMWY1ENEUI
+[2024.04.19-10.26.18:751][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/8ARIB4M2J22SWMWY1ENEUIC37BEC2F4520675228D58BB1F54976DF.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/2/Q8/8ARIB4M2J22SWMWY1ENEUI.uasset'
+[2024.04.19-10.26.18:757][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/A/ZR/N1KIDETWZIF9ZC7484T9MY
+[2024.04.19-10.26.18:757][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/N1KIDETWZIF9ZC7484T9MY0D6DD7AC4435466627B8C2831642D3B7.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/A/ZR/N1KIDETWZIF9ZC7484T9MY.uasset'
+[2024.04.19-10.26.18:762][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/level1/4/VW/ZLNG6DT1A8EJW2HVW6M05N
+[2024.04.19-10.26.18:762][920]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/ZLNG6DT1A8EJW2HVW6M05NC4F312D942BE1354CB82ABB0F687517F.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/__ExternalActors__/level1/4/VW/ZLNG6DT1A8EJW2HVW6M05N.uasset'
+[2024.04.19-10.26.18:766][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec
+[2024.04.19-10.26.18:773][920]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/level1_HLOD0_Instancing
+/Game/__ExternalActors__/level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG
+/Game/__ExternalObjects__/level1/F/22/JL6PFDIHNA1XSTJJHAEN28
+/Game/__ExternalObjects__/level1/B/H3/F3KNAWE8GSDSKUU5VS5KQ0
+/Game/__ExternalObjects__/level1/B/1V/D12QAJC6J21OWZR45R2G8M
+/Game/__ExternalObjects__/level1/6/IW/RJOFYPADSMRJFM3JL8ZXMJ
+/Game/__ExternalObjects__/level1/C/JG/GV0ARI6KHL0COFFBB88IC6
+/Game/__ExternalObjects__/level1/6/61/2VS9DQCGDSQIJB0OEEM7P8
+/Game/__ExternalActors__/level1/6/DF/2QUKRIGZ715A6P6FN1SH5G
+/Game/__ExternalActors__/level1/0/79/5XNEL9ZHGANJOS90RSMGIK
+/Game/__ExternalActors__/level1/0/DK/C13YY87Z6YYBL9DBB5TLTJ
+/Game/__ExternalActors__/level1/6/SM/QCFH8XV6Y2E8I46MS099E3
+/Game/__ExternalActors__/level1/0/6R/OQHI4GKV7R6XYPNL9AJZVF
+/Game/__ExternalActors__/level1/E/P5/N80N9QV1UGP1H3LNG4WPC7
+/Game/__ExternalActors__/level1/2/RQ/EZ8X2GP7IWETAGSPXCBT0N
+/Game/__ExternalActors__/level1/E/SO/IUQ0TYJIPXWW98ZTRVCK9W
+/Game/__ExternalActors__/level1/7/5C/B08JIUWQ158PPAXSJURA4H
+/Game/__ExternalActors__/level1/8/3H/KGWD41AVVMTQBRNXP6T9Q1
+/Game/__ExternalActors__/level1/0/9A/I31WKEU22PQGVI2BPORQQG
+/Game/__ExternalActors__/level1/D/1Y/0K54XX3PTJ6PPYJAGNJVEM
+/Game/__ExternalActors__/level1/1/45/EJSPYZOAABTI20FGJDK5FZ
+/Game/__ExternalActors__/level1/A/V6/DKLBR9DIZV5ZQ9BXT4RX19
+/Game/__ExternalActors__/level1/0/ON/PA1QN670MUYPIGT4CAUVK0
+/Game/__ExternalActors__/level1/D/VI/1ALP4KWDM7FJ13JRVV4KC8
+/Game/__ExternalActors__/level1/0/DT/S5F2WYNG2TEYBWD8ZQ7FPG
+/Game/__ExternalActors__/level1/5/RY/Y9H4SFRB26E6E99RNHKAZR
+/Game/__ExternalActors__/level1/8/H9/25ZUPMSPRGASY3NV7XE4D8
+/Game/__ExternalActors__/level1/6/37/IWJDFK578NPPI3FHDXSWA6
+/Game/__ExternalActors__/level1/A/BM/HDZX93NNP1VAINY4HHJYYU
+/Game/__ExternalActors__/level1/0/W3/6207B3XWTKRZW7RJM4UE4T
+/Game/__ExternalActors__/level1/4/7B/524A6TU6CZXWXSB2JH1CP5
+/Game/__ExternalActors__/level1/8/1S/8RYMGFK5OSNSGTMXI0T6NW
+/Game/__ExternalActors__/level1/8/JX/R96YXGFUXWIX7RSXT39DSG
+/Game/__ExternalActors__/level1/A/7W/16IU7RR5W4VLB8GQI10S01
+/Game/__ExternalActors__/level1/1/JU/2PT7RA9F601L2EF3DUU4OE
+/Game/__ExternalActors__/level1/7/ZK/NZPM2DF5GL7ADI2L0O5QFI
+/Game/__ExternalActors__/level1/E/KI/1FZ2RGADQW3B9XOGYLQAIC
+/Game/__ExternalActors__/level1/0/YB/F07YBHWQKNIAO0LR8NLF6Y
+/Game/__ExternalActors__/level1/C/KK/8VFAMR068Q1AZ9XOV8NS0I
+/Game/__ExternalActors__/level1/A/7M/7TT97N5SNCU2ZATYMH2GF1
+/Game/__ExternalActors__/level1/5/BD/OBKG4JN42452BP85T3XKPI
+/Game/__ExternalActors__/level1/3/HR/IPH662YDOJYMZ8I4DEETSA
+/Game/__ExternalActors__/level1/1/E7/3D68VQBXJ9FFAX73PD5NUE
+/Game/__ExternalActors__/level1/8/EO/8A2IS9PHV4JWN0XJD4SUWC
+/Game/__ExternalActors__/level1/C/D7/AD34W3MR0JY3E7IXYMHKFQ
+/Game/__ExternalActors__/level1/0/7T/A0JWKH6R63G0ULJJ22SQ6Q
+/Game/__ExternalActors__/level1/5/2D/3YOCEWATK3QK5591930POJ
+/Game/__ExternalActors__/level1/D/I1/V8RIVTPRM131CB28BF92HQ
+/Game/__ExternalActors__/level1/7/7K/JB48TLZHIYXRMGWH840W6J
+/Game/__ExternalActors__/level1/9/DG/K1M3JB5C7V68YBJ4FZH98B
+/Game/__ExternalActors__/level1/C/EL/98MCC5ZU3AIE5CZU7V2MTQ
+/Game/__ExternalActors__/level1/9/Q3/DHI9KI13E7AVU5OK6E3P0N
+/Game/__ExternalActors__/level1/C/7R/Z7Q6R3U73252FDU5J7VDZU
+/Game/__ExternalActors__/level1/E/R7/5RH9PL075U48A73QEEUJF9
+/Game/__ExternalActors__/level1/E/AW/22TVROR0J1K8O84RJHTXS3
+/Game/__ExternalActors__/level1/7/J3/OZ8DCXI8U5SF4PCN9NQ7H4
+/Game/__ExternalActors__/level1/5/TJ/Q7IYDH62UNU9W4U21ULIO8
+/Game/__ExternalActors__/level1/9/22/8FO2D35N6T4P58JDOEAJAV
+/Game/__ExternalActors__/level1/B/UZ/WQ6KAD1DVM0Z6WT5UKXG3W
+/Game/__ExternalActors__/level1/2/6J/E9M8679VVD30WS95ICL421
+/Game/__ExternalActors__/level1/C/SD/C1ZDCT5T5SDLSRT6Y66X4B
+/Game/__ExternalActors__/level1/6/7P/732EX2RX6DIP6ERNU7REC4
+/Game/__ExternalActors__/level1/7/AV/20WRAGBBOG88SVKYZEY05C
+/Game/__ExternalActors__/level1/8/5O/P7T2VQ1VVOFOHQ762VK0AX
+/Game/__ExternalActors__/level1/3/CY/HHZS7D10EUY483U5DVBELJ
+/Game/__ExternalActors__/level1/7/0O/XN9I6R4Q5UD95RQ6ORBHN9
+/Game/__ExternalActors__/level1/1/SS/561KT7TGIXZH3MNWIKC556
+/Game/__ExternalActors__/level1/C/QM/AD5DCEWJFTY3J90UKJ5AHE
+/Game/__ExternalActors__/level1/8/8S/QKT6PH13F9CW8O9BRYX1IU
+/Game/__ExternalActors__/level1/D/R7/J468IUGZY8UNTCOW074YKV
+/Game/__ExternalActors__/level1/E/US/R7RL62DVGL7MVYW9QQ3GVK
+/Game/__ExternalActors__/level1/7/BN/2YFE02NCCIPFXW47ZSUQPT
+/Game/__ExternalActors__/level1/4/2O/9JVDM7Y350LB7Z1RF3OTWL
+/Game/__ExternalActors__/level1/A/66/2ZBWQU0P7PQ4OZ31QFMHHN
+/Game/__ExternalActors__/level1/7/WE/8DQ09YC1KKXR2YT90T6JII
+/Game/__ExternalActors__/level1/F/2V/SQ9DTIIZI9NTRTT06LBHW6
+/Game/__ExternalActors__/level1/1/5E/6TD6DV5KNN9G42BRW241TM
+/Game/__ExternalActors__/level1/6/RK/R1XADQTLSNY3UYW7FJL125
+/Game/__ExternalActors__/level1/E/MD/E4ZJ4EMUZ6QVZR8PEHRW4H
+/Game/__ExternalActors__/level1/8/QH/F5S687B26IHH2DICWJG98N
+/Game/__ExternalActors__/level1/1/YA/74DKOWTTSUPNGQSY4P4U8B
+/Game/__ExternalActors__/level1/7/UK/SABPUYBDJSWEQPQKADLQNY
+/Game/__ExternalActors__/level1/C/7D/264MGAPWSLGLV8OPAKR6CZ
+/Game/__ExternalActors__/level1/3/K3/N76RUTQFDV6U36W7W9EGQW
+/Game/__ExternalActors__/level1/3/P6/7VTCXJ31EYV2YRXV8D5EET
+/Game/__ExternalActors__/level1/B/EC/89EDZ2WIUJL8GDIWO8GJ2M
+/Game/__ExternalActors__/level1/2/X3/Q38Z17LKTZGT2KXHL5C1NH
+/Game/__ExternalActors__/level1/2/4A/JHA957Y65QRK7ZUOLQOKPK
+/Game/__ExternalActors__/level1/E/LO/X3H8WW26KPASGVV91ECLFD
+/Game/__ExternalActors__/level1/1/VZ/Z6EMOGXHQCZZ5RXLG9I7AL
+/Game/__ExternalActors__/level1/8/9U/TDSB54AR0SAMX1XT60WDUJ
+/Game/__ExternalActors__/level1/8/YN/XJHAV6NLJHJNB100652VEZ
+/Game/__ExternalActors__/level1/8/2O/GE49HN3BYQNQ06PJQHM0PV
+/Game/__ExternalActors__/level1/4/OA/TJ7JY6QZH9LBU1Q39W1EIP
+/Game/__ExternalActors__/level1/C/6U/0HVLGL0X1RP2B5IKP94LDM
+/Game/__ExternalActors__/level1/0/PO/IWS8NTJSA2TZBPCKXZMZSG
+/Game/__ExternalActors__/level1/6/6E/GHF4CQTO0XRE0ATHNFF7AR
+/Game/__ExternalActors__/level1/4/OH/FVOZP3VJYB0IY5LSKCJJPB
+/Game/__ExternalActors__/level1/5/L2/HZOWK2IWICE3M7LUXNPS68
+/Game/__ExternalActors__/level1/E/XU/RH2427XA9D271VKM64I71B
+/Game/__ExternalActors__/level1/5/YG/6999CDC7NSMOG1NBRJEUR1
+/Game/__ExternalActors__/level1/4/4S/I92QYY76FNO9H7BFZP7SF2
+/Game/__ExternalActors__/level1/5/43/06YW7W7BROL3L9G9LK1K2E
+/Game/__ExternalActors__/level1/8/W9/VSDK8CW573NMV7B800OIK3
+/Game/__ExternalActors__/level1/1/0O/XE4CDO82F7EHW4DSC0Z8W2
+/Game/__ExternalActors__/level1/E/XA/RUPF0YCHVAAUDNKLZBLIP2
+/Game/__ExternalActors__/level1/7/01/G6OWVW9CR0COMW3M6FOQO9
+/Game/__ExternalActors__/level1/D/F4/X23MY13F0KTOB8VI3QQRLK
+/Game/__ExternalActors__/level1/C/QT/H1ZXWLYF1W6YZ9PIJQNUHP
+/Game/__ExternalActors__/level1/E/A0/YXXCXE9ICPZVI3628CEJQP
+/Game/__ExternalActors__/level1/5/CT/O58ZWVNHVJAZE9RXOVDC12
+/Game/__ExternalActors__/level1/A/09/77TOSIQV6BN4H1HEU8U88N
+/Game/__ExternalActors__/level1/7/M2/ZHYYC7K60XJOINZAWKXOMP
+/Game/__ExternalActors__/level1/9/8F/WUWSRW4APSU7RUAK81L5NK
+/Game/__ExternalActors__/level1/1/U9/A24YONZEOE9X6S5YOIJE9U
+/Game/__ExternalActors__/level1/6/5H/V8YWZUDZNJYMEOCNCZUZY5
+/Game/__ExternalActors__/level1/3/AH/OO1F6NVKHUW70CT9XITVO5
+/Game/__ExternalActors__/level1/B/KV/9MTTPG0F1C6Z7DUQ9OX6AG
+/Game/__ExternalActors__/level1/3/DS/FGI5JGB49SDVPRH7DC7D6G
+/Game/__ExternalActors__/level1/2/F1/GX0XYAREZWKTO08GIPWX34
+/Game/__ExternalActors__/level1/B/UY/VYYU714MYYUZ1S425R6S6Z
+/Game/__ExternalActors__/level1/5/OT/OM2VV3W2GL7UMWZ489T4HG
+/Game/__ExternalActors__/level1/C/JR/N4IPP2VMLY3HKFU5Y5D2W0
+/Game/__ExternalActors__/level1/9/3Y/0H1H0ZDZOM2P08KZHJD9EK
+/Game/__ExternalActors__/level1/3/WX/PKNXFEH82R9552M51F8J1C
+/Game/__ExternalActors__/level1/2/AF/6S40IMFJ2LSIRYO3OR11AV
+/Game/__ExternalActors__/level1/B/8O/JH3ZQDX60M421T4XTRYQSW
+/Game/__ExternalActors__/level1/2/Q8/8ARIB4M2J22SWMWY1ENEUI
+/Game/__ExternalActors__/level1/A/ZR/N1KIDETWZIF9ZC7484T9MY
+/Game/__ExternalActors__/level1/4/VW/ZLNG6DT1A8EJW2HVW6M05N
+[2024.04.19-10.26.18:837][920]LogFileHelpers: Saving map 'level1' took 1.402
+[2024.04.19-10.26.18:841][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.7 sec (total: 16.8 sec)
+[2024.04.19-10.26.18:842][920]LightingResults: New page: Lighting Build
+[2024.04.19-10.26.18:870][920]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-10.26.18:871][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-10.26.18:877][920]LogContentBundle: [level1(Standalone)] Deleting container.
+[2024.04.19-10.26.18:877][920]MapCheck: New page: Map Check
+[2024.04.19-10.26.18:877][920]LightingResults: New page: Lighting Build
+[2024.04.19-10.26.18:912][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-10.26.18:928][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.19-10.26.18:930][920]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-10.26.18:930][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-10.26.18:930][920]LogAIModule: Creating AISystem for world Untitled
+[2024.04.19-10.26.18:932][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.19-10.26.18:957][920]LoadErrors: New page: New Map
+[2024.04.19-10.26.18:982][920]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-10.26.18:982][920]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/level1_HLOD0_Instancing.level1_HLOD0_Instancing
+[2024.04.19-10.26.33:956][655]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-10.26.48:490][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.19-10.26.48:491][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.19-10.26.48:496][190]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled:PersistentLevel.StaticMeshActor_0
+[2024.04.19-10.26.48:503][190]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled:PersistentLevel.StaticMeshActor_0
+[2024.04.19-10.26.48:674][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-10.27.25:640][449]LogEditorViewport: Clicking Background
+[2024.04.19-10.27.26:312][520]Cmd: TRANSACTION UNDO
+[2024.04.19-10.27.26:312][520]LogEditorTransaction: Undo Clicking Background
+[2024.04.19-10.27.26:721][527]Cmd: TRANSACTION UNDO
+[2024.04.19-10.27.26:721][527]LogEditorTransaction: Undo Create Actor
+[2024.04.19-10.27.35:103][457]LogEditorViewport: Clicking Background
+[2024.04.19-10.27.38:305][804]LogViewport: Scene viewport resized to 1480x1252, mode Windowed.
+[2024.04.19-10.28.06:618][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/tristansonne/Box_11CA09B7.Box_11CA09B7
+[2024.04.19-10.28.06:619][156]LogStaticMesh: Display: Building static mesh Box_11CA09B7...
+[2024.04.19-10.28.06:619][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/tristansonne/Box_11CA09B7.Box_11CA09B7 as actor: StaticMeshActor /Temp/Untitled_2.Untitled:PersistentLevel.StaticMeshActor_1
+[2024.04.19-10.28.06:623][156]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/tristansonne/Box_11CA09B7.Box_11CA09B7
+[2024.04.19-10.32.19:433][209]LogSlate: Took 0.000695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.19-10.32.29:154][364]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F
+[2024.04.19-10.32.29:154][364]LogStaticMesh: Display: Building static mesh Box_F528360F...
+[2024.04.19-10.32.29:156][364]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F as actor: StaticMeshActor /Temp/Untitled_2.Untitled:PersistentLevel.StaticMeshActor_2
+[2024.04.19-10.32.29:156][364]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F
+[2024.04.19-10.32.57:996][693]Cmd: MODE GRID=0
+[2024.04.19-10.32.58:828][791]Cmd: MODE GRID=1
+[2024.04.19-10.33.46:513][418]LogEditorViewport: Clicking Background
+[2024.04.19-10.33.51:125][957]LogEditorViewport: Clicking Background
+[2024.04.19-10.34.00:733][ 92]LogEditorViewport: Clicking Background
+[2024.04.19-10.34.01:512][184]LogEditorViewport: Clicking Background
+[2024.04.19-10.34.04:696][552]LogEditorViewport: Clicking Background
+[2024.04.19-10.34.05:724][674]LogEditorViewport: Clicking Background
+[2024.04.19-10.34.35:503][220]LogEditorViewport: Clicking Background
+[2024.04.19-10.36.27:851][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.19-10.36.27:856][523]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_2_Auto2
+[2024.04.19-10.36.27:856][523]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Untitled_2_Auto28441D3A949C8EE895FFC689E4EAF34FF.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_2_Auto2.umap'
+[2024.04.19-10.36.27:857][523]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_2_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.19-10.36.27:857][523]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_2_Auto2 is in the /Temp path, will not scan.
+[2024.04.19-10.36.27:857][523]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_2_Auto2 is in the /Temp path, will not scan.
+[2024.04.19-10.36.27:857][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.021
+[2024.04.19-10.36.27:857][523]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.04.19-10.36.27:858][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/tristansonne/Box_11CA09B7] ([1] browsable assets)...
+[2024.04.19-10.36.27:904][523]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/tristansonne/Box_11CA09B7.Box_11CA09B7]
+[2024.04.19-10.36.27:904][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/tristansonne/Box_11CA09B7]
+[2024.04.19-10.36.27:910][523]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/tristansonne/Box_11CA09B7_Auto2
+[2024.04.19-10.36.27:910][523]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Box_11CA09B7_Auto21849A030478156D9E0F13F8E15F703EA.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/_GENERATED/tristansonne/Box_11CA09B7_Auto2.uasset'
+[2024.04.19-10.36.27:910][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/tristansonne/Box_F528360F] ([1] browsable assets)...
+[2024.04.19-10.36.27:919][523]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F]
+[2024.04.19-10.36.27:919][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/tristansonne/Box_F528360F]
+[2024.04.19-10.36.27:921][523]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/tristansonne/Box_F528360F_Auto2
+[2024.04.19-10.36.27:921][523]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Box_F528360F_Auto2B376FAB44C9B5574E6AA748C15042D37.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/_GENERATED/tristansonne/Box_F528360F_Auto2.uasset'
+[2024.04.19-10.36.27:922][523]LogFileHelpers: Auto-saving content packages took 0.064
+[2024.04.19-10.39.16:847][566]LogStaticMesh: Display: Building static mesh Box_F528360F...
+[2024.04.19-10.39.16:848][566]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F
+[2024.04.19-10.39.23:391][316]Cmd: TRANSACTION UNDO
+[2024.04.19-10.39.23:391][316]LogEditorTransaction: Undo Activate Tool
+[2024.04.19-10.40.08:824][525]LogViewport: Scene viewport resized to 1930x1252, mode Windowed.
+[2024.04.19-10.40.11:821][814]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2024.04.19-10.40.11:912][814]LogViewport: Scene viewport resized to 1480x1252, mode Windowed.
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: ================================================
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Total job queries 264, among them cache hits 0 (0.00%)
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: RAM used: 541,97 KiB of 819,20 MiB budget. Usage: 0.06%
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Jobs assigned 42, completed 20 (47.62%)
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 2.82 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Job execution time: average 2.76 s, max 2.77 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Job life time (pending + execution): average 2.80 s, max 2.85
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Shader code size: average 49,027 KiB, min 3,324 KiB, max 74,281 KiB
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.85 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 7.00 jobs/batch
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Average processing rate: 7.01 jobs/sec
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Total thread time: 4,371 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Total thread preprocess time: 0,395 s
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Percentage time preprocessing: 9.04%
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Effective parallelization: 1.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.19-10.40.14:388][ 78]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.31 sec, max 0.36 sec, min 0.26 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.26 sec, max 0.28 sec, min 0.21 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.23 sec, max 0.26 sec, min 0.20 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    4 times, average 0.21 sec, max 0.25 sec, min 0.13 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.61% of total time (compiled    4 times, average 0.26 sec, max 0.28 sec, min 0.21 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 21.15% of total time (compiled    4 times, average 0.23 sec, max 0.26 sec, min 0.20 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                             FDebugViewModeVS - 19.46% of total time (compiled    4 times, average 0.21 sec, max 0.25 sec, min 0.13 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.51% of total time (compiled    3 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.14% of total time (compiled    2 times, average 0.31 sec, max 0.36 sec, min 0.26 sec)
+[2024.04.19-10.40.14:389][ 78]LogShaderCompilers: Display: ================================================
+[2024.04.19-10.40.16:114][219]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.04.19-10.41.55:083][729]LogStaticMesh: Display: Building static mesh Box_F528360F...
+[2024.04.19-10.41.55:084][729]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F
+[2024.04.19-10.42.03:052][587]LogViewport: Scene viewport resized to 1930x1252, mode Windowed.
+[2024.04.19-10.42.05:338][840]LogViewport: Scene viewport resized to 1480x1252, mode Windowed.
+[2024.04.19-10.45.37:014][ 78]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.19-10.45.44:985][966]LogViewport: Scene viewport resized to 1930x1252, mode Windowed.
+[2024.04.19-10.45.46:446][122]LogEditorViewport: Clicking Background
+[2024.04.19-10.49.13:561][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.19-10.49.13:566][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_2_Auto3
+[2024.04.19-10.49.13:566][512]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Untitled_2_Auto36961DC96451BACC097FFB0B733AB1379.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_2_Auto3.umap'
+[2024.04.19-10.49.13:567][512]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Temp/Untitled_2_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.19-10.49.13:567][512]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_2_Auto3 is in the /Temp path, will not scan.
+[2024.04.19-10.49.13:567][512]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_2_Auto3 is in the /Temp path, will not scan.
+[2024.04.19-10.49.13:567][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.016
+[2024.04.19-10.49.13:567][512]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.04.19-10.49.13:567][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/tristansonne/Box_11CA09B7] ([1] browsable assets)...
+[2024.04.19-10.49.13:567][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/tristansonne/Box_11CA09B7]
+[2024.04.19-10.49.13:569][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/tristansonne/Box_11CA09B7_Auto3
+[2024.04.19-10.49.13:569][512]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Box_11CA09B7_Auto350117D1F4C9604875B5B51B6C4AD2D62.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/_GENERATED/tristansonne/Box_11CA09B7_Auto3.uasset'
+[2024.04.19-10.49.13:570][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/tristansonne/Box_F528360F] ([1] browsable assets)...
+[2024.04.19-10.49.13:605][512]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/tristansonne/Box_F528360F.Box_F528360F]
+[2024.04.19-10.49.13:605][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/tristansonne/Box_F528360F]
+[2024.04.19-10.49.13:607][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/tristansonne/Box_F528360F_Auto3
+[2024.04.19-10.49.13:607][512]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Box_F528360F_Auto3AA540EA343B8A4D30FA4509F746D00F7.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/_GENERATED/tristansonne/Box_F528360F_Auto3.uasset'
+[2024.04.19-10.49.13:608][512]LogFileHelpers: Auto-saving content packages took 0.041
+[2024.04.19-10.49.58:700][872]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.19-10.49.58:701][872]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.19-10.49.58:701][872]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_2.Untitled:PersistentLevel.DirectionalLight_0
+[2024.04.19-10.49.58:702][872]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_2.Untitled:PersistentLevel.DirectionalLight_0
+[2024.04.19-10.50.03:837][448]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.19-10.50.03:837][448]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.04.19-10.50.03:839][448]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_2.Untitled:PersistentLevel.DirectionalLight_1
+[2024.04.19-10.50.03:839][448]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_2.Untitled:PersistentLevel.DirectionalLight_1
+[2024.04.19-10.51.16:692][531]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.04.19-10.51.16:692][531]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.04.19-10.51.16:692][531]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_2.Untitled:PersistentLevel.SkyLight_0
+[2024.04.19-10.51.16:692][531]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_2.Untitled:PersistentLevel.SkyLight_0
+[2024.04.19-10.51.17:472][599]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.04.19-10.51.17:472][599]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.04.19-10.51.17:473][599]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_2.Untitled:PersistentLevel.SkyLight_1
+[2024.04.19-10.51.17:473][599]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Temp/Untitled_2.Untitled:PersistentLevel.SkyLight_1
+[2024.04.19-10.52.20:185][832]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2024.04.19-10.52.20:222][833]LogSlate: Took 0.000695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.19-10.52.59:590][846]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.19-10.53.00:452][899]LogEditorViewport: Clicking Background
+[2024.04.19-10.53.09:225][ 87]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.19-10.53.09:279][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-10.53.09:300][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.19-10.53.09:306][ 87]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.04.19-10.53.09:306][ 87]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/NewMap7979B5CB4E0BA03391FE51AB14B701E0.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap.umap'
+[2024.04.19-10.53.09:358][ 87]LogFileHelpers: Saving map 'NewMap' took 0.125
+[2024.04.19-10.53.09:358][ 87]Cmd: MAP LOAD FILE="../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.19-10.53.09:358][ 87]LightingResults: New page: Lighting Build
+[2024.04.19-10.53.09:358][ 87]LoadErrors: New page: Loading map: NewMap.umap
+[2024.04.19-10.53.09:400][ 87]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-10.53.09:400][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-10.53.09:400][ 87]MapCheck: New page: Map Check
+[2024.04.19-10.53.09:400][ 87]LightingResults: New page: Lighting Build
+[2024.04.19-10.53.09:404][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-10.53.09:407][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.19-10.53.09:410][ 87]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2024.04.19-10.53.09:410][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.19-10.53.09:410][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-10.53.09:410][ 87]LogAIModule: Creating AISystem for world NewMap
+[2024.04.19-10.53.09:423][ 87]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.19-10.53.09:428][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.19-10.53.09:432][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.19-10.53.09:432][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2024.04.19-10.53.09:432][ 87]AssetCheck: New page: Asset Save: NewMap
+[2024.04.19-10.53.09:432][ 87]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.04.19-10.53.15:908][714]LogDerivedDataCache: C:/Users/tristan.sonne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1096 files in 1767 folders with total size 15 MiB.
+[2024.04.19-10.53.28:393][112]MapCheck: New page: Map Check
+[2024.04.19-10.53.28:429][112]LightingResults: New page: Lighting Build - 19 Apr 2024, 16.53.28
+[2024.04.19-10.53.28:488][112]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.04.19-10.53.28:563][112]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.04.19-10.53.28:609][112]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.04.19-10.53.29:172][112]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.04.19-10.53.29:172][112]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11688
+[2024.04.19-10.53.39:209][112]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.04.19-10.53.39:210][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.04.19-10.53.39:210][112]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.04.19-10.53.39:210][112]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.04.19-10.53.39:210][112]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.04.19-10.53.39:210][112]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.04.19-10.53.39:400][112]LogEditorBuildUtils: Build time 0:10
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: ================================================
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Total job queries 276, among them cache hits 0 (0.00%)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 96 distinct outputs (35.29%)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: RAM used: 7,07 MiB of 819,20 MiB budget. Usage: 0.86%
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Shaders Compiled: 272
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Jobs assigned 272, completed 272 (100%)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Average time worker was idle: 69.84 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Time job spent in pending queue: average 9.03 s, longest 21.76 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Job execution time: average 2.97 s, max 4.39 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Job life time (pending + execution): average 12.00 s, max 22.27
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Shader code size: average 47,852 KiB, min 3,324 KiB, max 74,742 KiB
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.23 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 5.55 jobs/batch
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Average processing rate: 11.71 jobs/sec
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Total thread time: 84,94 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Total thread preprocess time: 5,623 s
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Percentage time preprocessing: 6.62%
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Effective parallelization: 3.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   42 times, average 0.43 sec, max 0.81 sec, min 0.21 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   46 times, average 0.36 sec, max 0.51 sec, min 0.16 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   36 times, average 0.33 sec, max 0.43 sec, min 0.20 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   46 times, average 0.31 sec, max 0.45 sec, min 0.18 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled   14 times, average 0.30 sec, max 0.37 sec, min 0.22 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.23% of total time (compiled   42 times, average 0.43 sec, max 0.81 sec, min 0.21 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.47% of total time (compiled   46 times, average 0.36 sec, max 0.51 sec, min 0.16 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.00% of total time (compiled   46 times, average 0.31 sec, max 0.45 sec, min 0.18 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.85% of total time (compiled   36 times, average 0.33 sec, max 0.43 sec, min 0.20 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display:                                             FDebugViewModeVS - 12.69% of total time (compiled   42 times, average 0.26 sec, max 0.38 sec, min 0.13 sec)
+[2024.04.19-10.53.40:299][115]LogShaderCompilers: Display: ================================================
+[2024.04.19-10.53.40:486][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.19-10.53.46:688][571]LightingResults: Warning: Box_11CA09B7 Object has overlapping UVs.
+[2024.04.19-10.53.46:688][571]LightingResults: Box_11CA09B7 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2024.04.19-10.53.46:745][575]Job is a success!
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:      Bricks at depth
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:          0: 20.0% covering 100.0% of volume
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:          1: 80.0% covering 6.2% of volume
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:      Bricks in each level
+[2024.04.19-10.53.46:977][577]LogVolumetricLightmapImport:          NewMap 			 5 bricks 	 100.0% (Persistent Level)
+[2024.04.19-10.53.46:984][577]LogTexture: Display: Building textures: /Game/NewMap_BuiltData.NewMap_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 16x8 x1x1x1) (Required Memory Estimate: 0.082769 MB), EncodeSpeed: Fast
+[2024.04.19-10.53.46:989][577]LogTexture: Display: Building textures: /Game/NewMap_BuiltData.NewMap_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 0.10315 MB), EncodeSpeed: Fast
+[2024.04.19-10.53.46:990][577]LogTexture: Display: Building textures: /Game/NewMap_BuiltData.NewMap_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 16x16 x1x1x1) (Required Memory Estimate: 0.091929 MB), EncodeSpeed: Fast
+[2024.04.19-10.53.46:991][577]LogTexture: Display: Building textures: /Game/NewMap_BuiltData.NewMap_BuiltData:ShadowMapTexture2D_0 (G8, 8x4 x1x1x1) (Required Memory Estimate: 0.063222 MB), EncodeSpeed: Fast
+[2024.04.19-10.53.47:026][577]Lightmass on C3008-06: 5.17 sec total, 4.68 sec importing, 2 ms setup, 36 ms photons, 429 ms processing, 0 us extra exporting [5/5 mappings]. Threads: 3.00 sec total, 5 ms processing.
+[2024.04.19-10.53.47:085][577]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2024.04.19-10.53.47:110][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.19-10.53.47:207][577]LogStaticLightingSystem: Illumination: 18.6 sec (7 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2024.04.19-10.53.47:207][577]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.04.19-10.53.47:207][577]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2024.04.19-10.53.48:198][577]DumpUnbuiltLightIteractions
+[2024.04.19-10.53.48:198][577]Lights with unbuilt interactions: 0
+[2024.04.19-10.53.48:198][577]
+[2024.04.19-10.53.48:198][577]Primitives with unbuilt interactions: 0
+[2024.04.19-10.53.48:269][578]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.04.19-10.53.48:269][578]MapCheck: New page: NewMap - 19 Apr 2024, 16.53.48
+[2024.04.19-10.53.48:269][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,365ms to complete.
+[2024.04.19-10.53.59:332][633]LogSlate: Window 'Message Log' being destroyed
+[2024.04.19-10.53.59:338][633]LogSlate: Window 'Message Log' being destroyed
+[2024.04.19-11.03.04:408][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.19-11.03.04:414][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMap_Auto4
+[2024.04.19-11.03.04:414][742]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/NewMap_Auto4D8AD010E4CFE9B88BCCF7A99B7396A29.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/NewMap_Auto4.umap'
+[2024.04.19-11.03.04:414][742]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/Autosaves/Game/NewMap_Auto4.umap is in the /Temp path, will not scan.
+[2024.04.19-11.03.04:414][742]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/NewMap_Auto4 is in the /Temp path, will not scan.
+[2024.04.19-11.03.04:414][742]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/NewMap_Auto4 is in the /Temp path, will not scan.
+[2024.04.19-11.03.04:414][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.011
+[2024.04.19-11.03.04:414][742]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2024.04.19-11.11.20:476][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-11.11.20:541][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-11.11.20:561][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.19-11.11.20:565][ 20]LogSavePackage: Moving output files for package: /Game/NewMap
+[2024.04.19-11.11.20:566][ 20]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/NewMapCB3281954B7D1CDFC136029945973242.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap.umap'
+[2024.04.19-11.11.20:569][ 20]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_BuiltData
+[2024.04.19-11.11.20:569][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-11.11.20:570][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap_BuiltData.uasset" SILENT=true
+[2024.04.19-11.11.20:574][ 20]LogSavePackage: Moving output files for package: /Game/NewMap_BuiltData
+[2024.04.19-11.11.20:574][ 20]LogSavePackage: Moving '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Saved/NewMap_BuiltData7273D5F64C04E881DD2CDF8AC531D4B8.tmp' to '../../../../../../Users/tristan.sonne/Documents/GitHub/TwinStickShooter/TwinstickShooter/Content/NewMap_BuiltData.uasset'
+[2024.04.19-11.11.20:574][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 4 ms (total: 16.8 sec)
+[2024.04.19-11.11.20:574][ 20]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_BuiltData
+[2024.04.19-11.11.20:574][ 20]LogFileHelpers: Saving map 'NewMap' took 0.034
+[2024.04.19-11.11.20:591][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 16.9 sec)
+[2024.04.19-11.11.20:593][ 20]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-11.11.20:593][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2024.04.19-11.11.20:593][ 20]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
