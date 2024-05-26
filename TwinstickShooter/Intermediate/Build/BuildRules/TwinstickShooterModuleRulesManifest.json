@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\TPS\\Documents\\GitHub\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter\\TwinstickShooter.Build.cs",
+		"C:\\Users\\TPS\\Documents\\GitHub\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter.Target.cs",
+		"C:\\Users\\TPS\\Documents\\GitHub\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

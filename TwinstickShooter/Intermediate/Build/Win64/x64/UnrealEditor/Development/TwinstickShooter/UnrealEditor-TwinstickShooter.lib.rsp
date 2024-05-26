@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TwinstickShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\BaseCharacter.gen.cpp.obj"
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\TwinstickShooter.init.gen.cpp.obj"
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\BaseCharacter.cpp.obj"
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\TwinstickShooter.cpp.obj"
+"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\Default.rc2.res"
+/OUT:"C:\Users\TPS\Documents\GitHub\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\TwinstickShooter\UnrealEditor-TwinstickShooter.lib"
